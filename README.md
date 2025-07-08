@@ -47,4 +47,4 @@ dicegame/
 ├── index.html
 ├── style.css
 ├── script.js
-└── Dice Game JavaScript.png   # Screenshot image
+└── img  # Image Folder
